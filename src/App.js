@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div>
 
-     <Welcom name =" de la part de youssef"/>
+     <Welcom name =" de la part de youssef et de selma"/>
     </div>
     );
   }
