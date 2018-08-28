@@ -4,7 +4,6 @@ import Welcom from './Component/Welcom';
 
 class App extends Component {
   render() {
-    let a =1;
     return (
       <div>
 
